@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+[IPFS LINK](https://ipfs.io/ipfs/QmaAjEJnvsz4n8oeVjmEHgogSEexF8yQoqAmF9ZLH9Df3u/1.svg)
+[ERC721 CONTRACT ADDRESS](https://rinkeby.etherscan.io/address/0x8264Ff7a8d1112AFEdcDe623762316E642f2A2CC#code)
+[ERC20 CONTRACT ADDRESS](https://rinkeby.etherscan.io/address/0x936e89593579BafEaB373bB44EaE51164F111ec1#code)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Metadata structure: {
+   name : "Valo",
+   image : [IMAGE LINK](https://ipfs.io/ipfs/QmaAjEJnvsz4n8oeVjmEHgogSEexF8yQoqAmF9ZLH9Df3u/1.svg),
+   description: "A valNFT collection"
+}
